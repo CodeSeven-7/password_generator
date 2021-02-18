@@ -1,7 +1,7 @@
 # password_generator
 Never re-use the same password.
 
-A simple tool to create a secure password with user defined length.
+# A simple tool to create a secure password with user defined length.
 
 Some things to consider about passwords:
 
